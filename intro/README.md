@@ -9,9 +9,13 @@ Abby
 **Abby Larner**
 
 Email - abby@theironyard.com
+
 Github - abbylarner
+
 Codepen - abbylarner
+
 Twitter - @abbylarner
+
 Blog - https://medium.com/@abbylarner
 
 ##Campus Director and COM Contact Info
