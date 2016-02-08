@@ -27,5 +27,3 @@
     + Setup TIY Assignments repository
 - Reset VS. Normalize
 - CSS Syntax Structure
-
-![Local vs remote repositories](/images/day_6.jpg)

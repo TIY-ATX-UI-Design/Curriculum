@@ -8,19 +8,19 @@
 
 **03/10/2016 - Day 09 - Typography Introduction**
 - [Notes](/week-02/day-09)
-- [Assignments](/week-01/day-04/assignments)
+- [Assignments](/week-02/day-09/assignments)
 
 **03/09/2016 - Day 08 - Advanced Sass Grid Mixins**
 - [Notes](/week-02/day-08)
-- [Assignments](/week-01/day-03/assignments)
+- [Assignments](/week-02/day-08/assignments)
 
 **03/08/2016 - Day 07 - Sass Basics and Introduction to Grid Systems**
 - [Notes](/week-02/day-07)
-- [Assignments](/week-01/day-02/assignments)
+- [Assignments](/week-02/day-07/assignments)
 
 **03/07/2016 - Day 06 - Github and the Command Line**
 - [Notes](/week-02/day-06)
-- [Assignments](/week-01/day-01/assignments)
+- [Assignments](/week-02/day-06/assignments)
 
 ##[Week 1](/week-01)
 <!--
