@@ -8,6 +8,8 @@
 - Critiquing & Presenting
 - Mobile First thinking
 - Responsive Web Design
+- Browser compatibility with CSS3
+
 
 ### Weekend Assignment: High Trek
 
@@ -18,7 +20,6 @@
 - Breaking down the layout of a website (inner/outer layers)
 - Sass installation
 - Deep dive in Sass
-- Browser compatibility with CSS3
 - Understanding Grids
 - Deep dive into Typography
 

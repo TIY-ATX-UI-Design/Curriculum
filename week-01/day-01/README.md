@@ -1,4 +1,4 @@
-# Welcome and HTML and CSS Basics
+#02/29/2016 - Day 1 - Welcome and HTML and CSS Basics
 
 #### Notes:
 - Welcome and expectations

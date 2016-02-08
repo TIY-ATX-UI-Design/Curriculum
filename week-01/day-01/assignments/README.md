@@ -3,13 +3,13 @@
 ##About Me Page
 [Details](about-me-page.md)
 
-#### Reading/Video Assignments
+## Reading/Video Assignments
 - [CSS Positioning Video](https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/) 
 
-#### Design Critique
+## Design Critique
 - Find one example of a website that has good design and be ready to defend the your decision
 
-#### Additional Reading/Resources
+## Additional Reading/Resources
 - [Sublime Sidebar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - [CSS Reset](http://meyerweb.com/eric/tools/css/reset/)
 - [Float Codepen](http://codepen.io/abbylarner/pen/vOomyN?editors=110)
