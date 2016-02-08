@@ -1,7 +1,7 @@
 #02/29/2016 - Day 01 - Assignments
 
 ##About Me Page
-[Details](/about-me-page.md)
+[Details](about-me-page.md)
 
 #### Reading/Video Assignments
 - [CSS Positioning Video](https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/) 
