@@ -1,6 +1,6 @@
 #02/29/2016 - Day 1 - Welcome and HTML and CSS Basics
 
-#### Notes:
+## Notes:
 - Welcome and expectations
 - Computer Setup
     - Programs that should already be installed: Sublime, Photoshop, Illustrator, Chrome Safari

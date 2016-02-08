@@ -1,6 +1,6 @@
 # 03/02/2016 - Day 3 - HTML Structural Elements and CSS Specificity
 
-#### Notes:
+## Notes:
 - Check-in on how HW went
 - Debugging HW
 - HTML Structural Elements

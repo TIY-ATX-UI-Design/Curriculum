@@ -1,27 +1,27 @@
 # CSS Positioning Codepens
 
-#### Description
+## Description
 Using what you learned in lecture and reading, re-create the following layouts in separate Codepens that you can share tomorrow in class.
 
-#### Objectives
+## Objectives
 - Understand the CSS box model and how it applies to HTML elements
 - Understand and implement the differences between different "display" types in CSS".
 - Understand and implement the different types of CSS positioning.
 - Identify the uses for and differences between CSS reset and Normalize
 
-#### Performance Objectives
+## Performance Objectives
 After completing this assignment, you should be able to effectively use
 
 - Create and Fork a Codepen
 - Effectively implement and understand the 4 types of CSS positioning using the CSS Box Model
 
-#### Details
+## Details
 
-Deliverables
+**Deliverables**
 
 - Students should save Codepen links and email them to abby@theironyard.com.
 
-#### Exercises
+## Exercises
 1. Create a new Codepen
 - Make a div with a class of "container" that will contain all of your future divs.
 - Give the container div a:
@@ -62,6 +62,6 @@ Deliverables
 
 **Note: This codepen doesn't have to look exactly as the image (the distance between the pink and grey box may vary depending on your browser width)**
 
-#### Hard Mode
+## Hard Mode
 - Create your codepen in steps 1 & 2 with 45 or less lines of well-formed CSS and no additional classes except for the ones defined in the instructions
 - Create the first and second layout images with margin instead of positioning

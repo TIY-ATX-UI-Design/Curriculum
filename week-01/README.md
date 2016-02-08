@@ -1,4 +1,4 @@
-#HTML and CSS Basics
+#Week 01 - HTML and CSS Basics, Responsive Design
 
 ##Objectives
 This week we will cover topics including an overview of UI Design, Mac Basics, Github and Codepen Basics, and the basics of HTML and CSS.  By the end of the week, the student will:

@@ -1,6 +1,6 @@
 # 03/03/2016 - Day 4 - Responsive Design, Media Queries, and Cross-Browser Compatibility
 
-##Notes
+####Notes
 - 10 min Design Critique
 - Debug Homework
 - Media Queries

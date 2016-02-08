@@ -1,6 +1,6 @@
 # 03/01/2016 - Day 2 - CSS Box Model and Positioning
 
-#### Notes:
+## Notes:
 - Check-in on how HW went
 - 10 min Design Critique
 - Debugging HW
