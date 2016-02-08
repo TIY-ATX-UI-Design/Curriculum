@@ -4,6 +4,7 @@
 
 [Setup](/intro/setup.md)
 
+<!--
 ##[Week 2](/week-02)
 
 **03/10/2016 - Day 09 - Typography Introduction**
@@ -21,6 +22,7 @@
 **03/07/2016 - Day 06 - Github and the Command Line**
 - [Notes](/week-02/day-06)
 - [Assignments](/week-02/day-06/assignments)
+-->
 
 ##[Week 1](/week-01)
 <!--
