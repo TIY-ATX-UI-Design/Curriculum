@@ -21,7 +21,6 @@ Using what you learned in lecture and reading, finish part 2 of the High Trek  s
 Deliverables
 - Working off of the same files you created yesterday, use the remaining two layouts to finish the small screen version of the High Trek website.  Once you have done that, use Media Queries to code the large version of the site.  The breakpoint should be at 799px. Submit as a zipped file.
 
-- [Text/Styling](images/text_styling.jpg)
 - [Images/Styling](images/images_styling.jpg) 
 - [Large Screen Version](images/large_format.jpg)
 - [High Trek Images](images/high-trek-images.zip)

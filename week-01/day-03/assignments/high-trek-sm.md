@@ -1,7 +1,7 @@
 # High Trek Outer and Inner Layers
 
 #### Description
-Using what you learned in lecture and reading, draw the inner and outer layers of the High Trek Site and code them with HTML and CSS.[Final High Trek Small-Screen](images/images_styling.jpg) 
+Using what you learned in lecture and reading, draw the inner and outer layers of the High Trek Site and code them with HTML and CSS. [Final High Trek Small-Screen](images/images_styling.jpg) 
 
 - Using your knowledge of HTML and CSS, code the inner and outer layouts that you sketch (using colored boxes in your HTML).
 
