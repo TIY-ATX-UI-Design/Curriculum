@@ -1,16 +1,20 @@
-#03/03/2016 - Day 04 - Assignments
+#03/10/2016 - Day 09 - Assignments
 
-## High Trek Site Responsive Website
-- [Details](high-trek-rwd.md)
+#### Rebuild Twitter (responsively, desktop first) with HTML and CSS and media queries
+- [Details](rebuild-twitter.md)
 
-## Reading/Video Assignments
-- [The Code Side of Color](http://www.smashingmagazine.com/2012/10/the-code-side-of-color/)
-- [The First Responsive Web Design Article](http://alistapart.com/article/responsive-web-design)
-- [Device Agnostic](http://trentwalton.com/2014/03/10/device-agnostic)
-- [Where to Start](http://trentwalton.com/2013/02/07/where-to-start/)
+#### Reading/Video Assignments
+- [Thinking With Type - Sections on line spacing, kerning, text alignment, and hierarchy](http://thinkingwithtype.com/contents/text/#Line_Spacing)
+- [Organizing CSS](https://mattstauffer.co/blog/organizing-css-oocss-smacss-and-bem)
+- [Leveraging Sass Mixins for Cleaner Code](http://thesassway.com/intermediate/leveraging-sass-mixins-for-cleaner-code)
+- [Choosing Great Variable Names](http://thesassway.com/beginner/variable-naming)
+- [How to Kern Properly](http://paper-leaf.com/blog/2012/05/how-to-kern-properly-essential-tips-resources/)
+- [Quotes and Accents](http://quotesandaccents.com/)
 
-## Additional Resources/Reading
-- [nth-child Tester](https://css-tricks.com/examples/nth-child-tester/)
-- [nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
-- [RWD Checklist](http://rwdchecklist.com/)
-- [9 Gifs that Explain Responsive Design Brilliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)
+#### Additional Resources/Reading
+- [Why Ems](https://css-tricks.com/why-ems/)
+- [Font Sizing with Rems](http://snook.ca/archives/html_and_css/font-size-with-rem)
+- [Rem vs Em](https://j.eremy.net/confused-about-rem-and-em/)
+- [Kerning in Practice](http://www.webdesignerdepot.com/2012/07/kerning-in-practice-beware-odd-letter-spacing/)
+- [The Punctuation Guide](http://www.thepunctuationguide.com/em-dash.html)
+- 

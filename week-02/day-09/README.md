@@ -1,18 +1,14 @@
-# 03/03/2016 - Day 4 - Responsive Design, Media Queries, and Cross-Browser Compatibility
+# 03/10/2016 - Day 09 - Typography Introduction
 
-####Notes
-- 10 min Design Critique
-- Debug Homework
-- Media Queries
-    + Why Repsonsive?
-    + Media Query Options
-        * screen, landscape, etc.
-        * min-width vs. max-width
-- Webkit Prefixes/Cross-browser compatibility
-- CSS remnants
-    + ::before and ::after
-    + blockquote
-    + :nth-of-type, :nth-child
-    + shorthand
-- Inspect Element
-- Benefits of using [CanIUse](http://caniuse.com/)
+## Notes
+- PX vs EM (pxtoem)
+- Line Spacing
+- Kearning
+- Tracking
+- Alignment/Body Copy Conventions
+- [Punctuation Guide](http://www.thepunctuationguide.com/em-dash.html)
+- Typography on the web
+    + ems, rems, px
+- [Codepen - Spacing with Ems](http://codepen.io/abbylarner/pen/VvYmvG)
+- [Codepen - Font-size ems, px, pt, percent](http://codepen.io/abbylarner/pen/rOaMRW)
+- [Codepen - Kerning](http://codepen.io/abbylarner/pen/rOamBj)

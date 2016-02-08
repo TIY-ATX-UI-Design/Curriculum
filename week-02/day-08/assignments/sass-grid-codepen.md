@@ -1,4 +1,4 @@
-# Sass Grid Mixin Codepen
+# Grid Codepen
 
 ## Description
 Using what you learned in lecture and reading, use codepen to create a grid mixin.
