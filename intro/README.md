@@ -7,6 +7,7 @@ Abby
 
 ##Instructor Contact Info
 **Abby Larner**
+
 Email - abby@theironyard.com
 Github - abbylarner
 Codepen - abbylarner
@@ -15,9 +16,11 @@ Blog - https://medium.com/@abbylarner
 
 ##Campus Director and COM Contact Info
 **Travis Swicegood (Campus Director)**
+
 Email - travis@theironyard.com
 
 **Karly Borden (Campus Operations Manager)**
+
 Email - karly@theironyard.com
 
 ##Schedule 
@@ -57,7 +60,7 @@ Sounds boring, but these are important:
 - [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?s=books&ie=UTF8&qid=1454962873&sr=1-4&keywords=html)
 
 ###Podcasts
-- [Sam's Recommendations](https://github.com/samkap/recommendations/blob/master/Design_Dev_Tech_Podcasts.md)
+- [Sam Kapila's Recommendations](https://github.com/samkap/recommendations/blob/master/Design_Dev_Tech_Podcasts.md)
 
 ###Websites/Blogs
 - [Designer News](https://www.designernews.co/)
