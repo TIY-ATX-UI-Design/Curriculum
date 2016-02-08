@@ -14,7 +14,9 @@
 ## Week 2 
 - Introduction to the Command Line
 - Git and GitHub
+- Setting up SSH Key
 - Breaking down the layout of a website (inner/outer layers)
+- Sass installation
 - Deep dive in Sass
 - Browser compatibility with CSS3
 - Understanding Grids
