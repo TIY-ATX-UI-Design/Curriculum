@@ -4,9 +4,8 @@
 [Setup](/intro/setup.md)
 
 ##[Week 1](/week-01)
-
-**03/03/2016 - Day 4 - Responsive Design, Media Queries, and Cross-Browser Compatibility**
 <!--
+**03/03/2016 - Day 4 - Responsive Design, Media Queries, and Cross-Browser Compatibility**
 - [Notes](/week-01/day-04)
 - [Assignments](/week-01/day-04/assignments)
 
