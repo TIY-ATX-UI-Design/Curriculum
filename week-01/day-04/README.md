@@ -1,18 +1,17 @@
-# 03/03/2016 - Day 4 - Responsive Design, Media Queries, and Cross-Browser Compatibility
+# 03/03/2016 - Day 04 - CSS Layout, Selectors and Centering
 
-##Notes
-- 10 min Design Critique
-- Debug Homework
-- Media Queries
-    + Why Repsonsive?
-    + Media Query Options
-        * screen, landscape, etc.
-        * min-width vs. max-width
-- Webkit Prefixes/Cross-browser compatibility
-- CSS remnants
-    + ::before and ::after
-    + blockquote
-    + :nth-of-type, :nth-child
-    + shorthand
-- Inspect Element
-- Benefits of using [CanIUse](http://caniuse.com/)
+## Topics
+* [CSS Media Queries](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/units/css-media-queries)
+* HTML Form Elements
+* [Sass](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/units/sass)
+* [CSS Specificity](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/units/css-specificity)
+
+## Notes
+
+## Assignments
+1. [Breadcrumbs Questions](https://online.theironyard.com/library/paths/143/units/499/assignments/790)
+2. [Responsive Website](https://online.theironyard.com/library/paths/143/units/499/assignments/789)
+4. [Reading/Video Assignments](https://online.theironyard.com/library/paths/143/units/499/assignments/791)
+
+#####Additional Resources/Reading
+

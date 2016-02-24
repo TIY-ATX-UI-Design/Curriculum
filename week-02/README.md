@@ -1,11 +1,9 @@
-#Week 02 - Github, Sass, and Grid Systems
+#Week 02 - Advanced HTML and CSS/Sass, Introduction to Grids, Introduction to Typography
 
 ##Objectives
-This week we will cover topics including Github Basics, Sass basics, and Grid Systems.  By the end of the week, the student will:
+This week we will cover topics including Advanced Sass and CSS, Grid Systems, and an introduction to typography. By the end of the week, the student will:
 
-- understand how to use the command line for basic commands
-- understand and be able to use the commannd line and Github to submit assignments
-- understand what a preprocessor is 
-- understand how Sass syntax and how to use basic features of Sass
-- be able to create a grid using a Sass Mixin
 - understand the importance of Grid Systems and how to identify grid systems on the web
+- be able to create a grid using a Sass Mixin
+- be able to use Sass efficiently and effectively
+- be able to recognize grid systems and sketch them
