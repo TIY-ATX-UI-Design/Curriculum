@@ -51,8 +51,9 @@
 - Pixel Perfect Design
 - Prototyping/User Testing
 - Illustrator
+- Guest lecture Greg Story?
 
-### Weekend Assignment: Goodreads (1 page, user flows/stories, using 3 different style types, coded)
+### Weekend Assignment: Goodreads (1 page: mobile and desktop, user flows/stories, using 2 different style types, coded)  - ibm, material, +2 
 
 ## Week 6
 - Introduction to User Experience
@@ -61,6 +62,7 @@
 - Clearhead - Workflow/Intro App Design
 - Team work and group hackaton
 - Git Branching and Merging
+- Retail me not guest lecture?
 
 ### Weekend Assignment: Group Project
 
@@ -69,6 +71,7 @@
 - Invision/Framework 7
 - Design as problem solving
 - Icon Design/Importance of Icons
+- Clark Wimberly (Invision talk?)
 
 ### Weekend Assignment: Mobile Project
 
@@ -77,6 +80,7 @@
 - Scrum
 - Workflows for groups
 - Deeper dive into Jekyll (CMS)
+- CMS Talk
 - Optimizing images for the web/photo manipulation
 
 ### Weekend Assignment: Client Project/Style Guide (pairs)

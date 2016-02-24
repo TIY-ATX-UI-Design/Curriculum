@@ -1,6 +1,6 @@
 #03/10/2016 - Day 09 - Assignments
 
-#### Rebuild Meetup (responsively, desktop first) with HTML and CSS and media queries
+#### Rebuild Twitter (responsively, desktop first) with HTML and CSS and media queries
 - [Details](rebuild-twitter.md)
 
 #### Reading/Video Assignments

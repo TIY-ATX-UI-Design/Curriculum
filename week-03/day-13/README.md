@@ -1,19 +1,8 @@
-# 03/08/2016 - Day 07 - Introduction to Grids and Advanced Sass
+# 03/16/2016 - Day 12 - Photoshop Mockups
 
 ## Notes
-- Debug Homework
-- Design Critique
-- Introduction to Grids
-    + Use of grids on the web
-    + Common considerations: columns, gutters
-    + Sizing grids
-    + Rule of Thirds, Golden Mean, 12/18/24-column grids
-    + Types of Grids
-        * Module
-        * Column
-        * Manuscript
-- Advanced Sass
-    + Variables, Partials, Extends, Mixins (basic)
+- Homework Debug
+- Meta tag for Responsive
 - Advanced Mixins
     + Mixins with multiple arguments
     + [Leveraging Sass Mixins for Cleaner Code](http://thesassway.com/intermediate/leveraging-sass-mixins-for-cleaner-code)
@@ -22,6 +11,6 @@
 - Functions
     + darken, lighten, mix
 - [How to Structure a Sass Project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-- Extends
 - Mixin Grid
+- Types of writing CSS - BEM, OOCSS, Atomic, SMACSS
 - [Grid Codepen](http://codepen.io/abbylarner/pen/dYyBBN?editors=110)

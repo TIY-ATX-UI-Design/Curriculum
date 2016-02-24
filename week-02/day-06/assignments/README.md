@@ -1,8 +1,8 @@
 # 03/07/2016 - Day 06 - Assignments
 
 ## UI Design Checklist/Finish Up High Trek
-- [UI Design Checklist Details](ui-design-checklist.md)
-- Finish up tweaks for High Trek.  Make sure all buttons are clickable and add hover states (at least for social). If you haven't done hard mode from this weekend, add 1 additional breakpoint to your website.  Finished it all? Design the "contact" page using what we learned about forms on Friday.
+- [Details](ui-design-checklist.md)
+- [Details]()
 
 ## Reading/Video Assignments
 - [Learn Git](https://try.github.io/levels/1/challenges/1)
