@@ -39,7 +39,7 @@
 
 ## Assignments
 - [UI Design Checklist](https://online.theironyard.com/library/paths/143/units/496/assignments/764)
-- [CSS Positioning Codepens](https://online.theironyard.com/library/paths/143/units/499/assignments/780)
+- [CSS Positioning Codepens](https://online.theironyard.com/library/paths/143/units/496/assignments/803)
 - [Reading/Video Assignments](https://online.theironyard.com/admin/assignments/782)
 
 ## Additional Resources
