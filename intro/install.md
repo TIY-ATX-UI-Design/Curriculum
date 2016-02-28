@@ -2,7 +2,7 @@
 
 Normally you *NEVER* want to run random commands that you get from the internet in your terminal without understanding what they are and exactly what they do. The terminal could give anyone full access to your entire computer. In this case these commands are coming from a trusted source (me) so it's okay.
 
-Short link to this document [http://bit.ly/1UlEEKj](http://bit.ly/1UlEEKj)
+Short link to this document [http://bit.ly/1RvOdnj](http://bit.ly/1RvOdnj)
 
 ### Run Software Update
 > We want the newest version of OS X and all updates before we move on.
