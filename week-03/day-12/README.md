@@ -1,38 +1,26 @@
-# 03/08/2016 - Day 07 - Advanced Sass and Introduction to Grid Systems
+# 03/15/2016 - Day 12 - Fundamentals of Design
 
 ## Topics
-- Debug Homework
-- Design Critique
-- Introduction to Grids
-    + Use of grids on the web
-    + Common considerations: columns, gutters
-    + Sizing grids
-    + Rule of Thirds, Golden Mean, 12/18/24-column grids
-    + Types of Grids
-        * Module
-        * Column
-        * Manuscript
-- Advanced Sass
-    + Variables, Partials, Extends, Mixins (basic)
-- Advanced Mixins
-    + Mixins with multiple arguments
-    + [Leveraging Sass Mixins for Cleaner Code](http://thesassway.com/intermediate/leveraging-sass-mixins-for-cleaner-code)
-- Import/Overall page for partials
-- [Nested Selectors](http://thesassway.com/advanced/modular-css-an-example)
-- Functions
-    + darken, lighten, mix
-- [How to Structure a Sass Project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-- Extends
-- Mixin Grid
-- [Grid Codepen](http://codepen.io/abbylarner/pen/dYyBBN?editors=110)
-
+- Presentation/Review of websites
+- Gestalt Principles
+    + Similarity
+    + Continuation
+    + Closure
+    + Proximity
+    + Figure and Ground
+- Color Theory
+- Examples of Gestalt and Color Theory in the wild
+    + http://blog.teamtreehouse.com/gestalt-principles-designers-applying-visual-psychology-modern-day-design
+- Typographic hierarchies
+- Site Maps
 ## Notes
 
 ## Assignments
-- [Grid Sketches](https://online.theironyard.com/library/paths/143/units/496/assignments/770)
-- [Reading/Video Assignments](https://online.theironyard.com/library/paths/143/units/496/assignments/774)
+- [Restaurant Website Sketches](https://online.theironyard.com/library/paths/143/units/524/assignments/877)
+- [Restaurant Website Typographic Discoveries](https://online.theironyard.com/library/paths/143/units/524/assignments/904)
+- [Typographic Discoveries Blog Post](https://online.theironyard.com/library/paths/143/units/524/assignments/905)
+- [Reading/Video Assignments](https://online.theironyard.com/library/paths/143/units/524/assignments/878)
 
 ## Additional Resources
-- [Sass Key Principles](http://sass-guidelin.es/#key-principles-1)
-- [Using Object Oriented CSS with Sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
-- [A Standard Module Definition for Sass](http://thesassway.com/intermediate/a-standard-module-definition-for-sass)
+- [Digital Color Mixing](http://www.creativebloq.com/colour/digital-colour-mixing-1131629)
+- [Color Theory 101](http://www.sitepoint.com/color-theory-101-2/)

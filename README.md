@@ -2,11 +2,12 @@
 
 [Welcome!](/intro/README.md)
 
-[Setup](/intro/setup.md)
+[Setup](/intro/install.md)
+<!--
 
 ##[Week 3](/week-03)
 
-**03/17/2016 - Day 14 - Photoshop Mockups**
+**03/17/2016 - Day 14 - Jekyll**
 - [Notes](/week-03/day-14)
 - [Assignments](/week-03/day-14/assignments)
 
@@ -14,7 +15,6 @@
 - [Notes](/week-03/day-13)
 - [Assignments](/week-03/day-13/assignments)
 
-<!--
 **03/15/2016 - Day 12 - Design Fundamentals and Color Theory**
 - [Notes](/week-03/day-12)
 - [Assignments](/week-03/day-12/assignments)
