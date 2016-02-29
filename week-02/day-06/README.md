@@ -34,6 +34,7 @@
     + shorthand
 - Types of writing CSS - BEM, OOCSS, Atomic, SMACSS
 - Webkit Prefixes/Cross-browser compatibility
+- HTML5 elements and when to use them
 
 ## Notes
 

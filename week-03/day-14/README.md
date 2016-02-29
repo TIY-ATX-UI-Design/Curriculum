@@ -1,33 +1,24 @@
-# 03/09/2016 - Day 08 - Introduction to Typography
+# 03/17/2016 - Day 14 - Introduction to Jekyll and Photoshop Mockups
 
 ## Topics
-- Line Spacing
-- Kearning
-- Tracking
-- Alignment/Body Copy Conventions
-- [Punctuation Guide](http://www.thepunctuationguide.com/em-dash.html)
-- Typography on the web
-    + ems, rems, px
-- [Codepen - Spacing with Ems](http://codepen.io/abbylarner/pen/VvYmvG)
-- [Codepen - Font-size ems, px, pt, percent](http://codepen.io/abbylarner/pen/rOaMRW)
-- [Codepen - Kerning](http://codepen.io/abbylarner/pen/rOamBj)
-- Fontawesome.io
-- Google Fonts
-- Typekit
-
+- What is Jekyll
+- Front Matter
+- Liquid Tags
+- Layouts
+- Posts
+- _site folder
+- Photoshop Mockups
 
 ## Notes
 
 ## Assignments
-- [Code Meetup](https://online.theironyard.com/library/paths/143/units/496/assignments/769)
+- [Restaurant Website Mockups](https://online.theironyard.com/library/paths/143/units/544/assignments/945)
+- [Restaurant Website Coding](https://online.theironyard.com/library/paths/143/units/544/assignments/946)
 - [Reading/Video Assignments](https://online.theironyard.com/library/paths/143/units/496/assignments/776)
 
 ## Additional Resources
-- [Why Ems](https://css-tricks.com/why-ems/)
-- [Font Sizing with Rems](http://snook.ca/archives/html_and_css/font-size-with-rem)
-- [Rem vs Em](https://j.eremy.net/confused-about-rem-and-em/)
-- [Kerning in Practice](http://www.webdesignerdepot.com/2012/07/kerning-in-practice-beware-odd-letter-spacing/)
-- [The Punctuation Guide](http://www.thepunctuationguide.com/em-dash.html)
-- 
+- [Jekyll Docs](http://jekyllrb.com/docs/home/)
+- [Basic Static Blog Using Jekyll](https://www.youtube.com/watch?v=sxiQmHlogdg)
+
 
 

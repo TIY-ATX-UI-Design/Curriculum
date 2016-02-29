@@ -12,7 +12,8 @@
 - Examples of Gestalt and Color Theory in the wild
     + http://blog.teamtreehouse.com/gestalt-principles-designers-applying-visual-psychology-modern-day-design
 - Typographic hierarchies
-- Site Maps
+- Site Maps (in class exercise with restaurant)
+
 ## Notes
 
 ## Assignments

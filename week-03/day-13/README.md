@@ -1,19 +1,17 @@
-# 03/09/2016 - Day 08 - Mixin Grid and PX vs EM
+# 03/16/2016 - Day 13 - Photoshop Basics and Style Tiles
 
 ## Topics
-- Debug Homework
-- Design Critique
-- Mixin Grid
-- [Grid Codepen](http://codepen.io/abbylarner/pen/dYyBBN?editors=110)
-- PX vs EM
-
+- Photoshop Basics
+- Introduction to Style Tiles (and examples)
+- Style Tiles for 1 Websites (in class)
 
 ## Notes
 
 ## Assignments
-- [Grid Mixin](https://online.theironyard.com/library/paths/143/units/496/assignments/773)
-- [Reading/Video Assignments](https://online.theironyard.com/library/paths/143/units/496/assignments/776)
+- [Restaurant Website Style Tiles](https://online.theironyard.com/library/paths/143/units/545/assignments/943)
+- [Reading/Video Assignments](https://online.theironyard.com/library/paths/143/units/545/assignments/944)
 
 ## Additional Resources
+
 
 
