@@ -4,7 +4,6 @@
 - Introduction to HTML and CSS
 - HTML and HTML5 elements are their differences
 - CSS Specificity
-- Web Standards/Accessibility
 - Critiquing & Presenting
 - Mobile First thinking
 - Responsive Web Design
@@ -22,6 +21,7 @@
 - Deep dive in Sass
 - Understanding Grids
 - Deep dive into Typography
+- Web Standards
 
 ### Weekend Assignment: Twitter (sketch outer layer and inner layer before coding and Responsive small size)
 
@@ -41,6 +41,7 @@
 - CSS3 Animation
 - Using SVGs
 - CSS Masking/Clipping
+- Accessibility
 
 ### Weekend Assignment: CSS Zen Garden 
 

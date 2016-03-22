@@ -5,28 +5,57 @@
 - Design Critique
 - Introduction to Grids
     + Use of grids on the web
+        * Why are grids important?
+            - Clarity/Harmony
+            - Efficiency
+            - Shareability
+            - Consistency/Harmony
+        * How does a grid work?
     + Common considerations: columns, gutters
     + Sizing grids
+        * Percentages for containers
     + Rule of Thirds, Golden Mean, 12/18/24-column grids
-    + Types of Grids
-        * Module
-        * Column
+        * http://tympanus.net/codrops/2012/05/23/understanding-the-rule-of-thirds-in-web-design/
+        * http://webdesign.tutsplus.com/articles/making-your-web-designs-more-effective-with-the-golden-ratio--cms-23459
+        * http://www.hongkiat.com/blog/golden-ratio-in-moden-designs/
+    + Types of Grid
         * Manuscript
+            - http://www.markboultondesign.com/
+         * Column
+            - http://jessicahische.is/thinkingthoughts
+            - http://www.nytimes.com/
+        * Module
+            - http://www.dribble.com
+        * hierarchical
+            - http://www.sightunseen.com/
 - Advanced Sass
-    + Variables, Partials, Extends, Mixins (basic)
-- Advanced Mixins
-    + Mixins with multiple arguments
-    + [Leveraging Sass Mixins for Cleaner Code](http://thesassway.com/intermediate/leveraging-sass-mixins-for-cleaner-code)
-- Import/Overall page for partials
+    + Extends, Mixins (basic), placeholders
+    - Extends
+        + Exercise: Use extends to create a button system including:
+            - default
+            - success
+            - alert
+            - warning
+    + Mixins
+        * Mixins with multiple arguments
+        * [Leveraging Sass Mixins for Cleaner Code](http://thesassway.com/intermediate/leveraging-sass-mixins-for-cleaner-code)
+        * http://gillesbertaux.com/andy/
+        * Exercise: 
+            * Set a rem mixin with pixel fallback
+            * Create an opacity mixin with cross-browser compatibility (extensions)
+            * Create a mixin with rems, a fallback to ems, and a fallback to pixels (that is calculated by the mixin) - Hint: you should put in the rem value and get all three values back;
+    - Placeholders
+        + Exercise
+            * Create a placeholder to center block level elements
+            * Use a placeholder to create a circle from a square
+            * http://www.sitepoint.com/sass-mixin-placeholder/
 - [Nested Selectors](http://thesassway.com/advanced/modular-css-an-example)
-- Functions
-    + darken, lighten, mix
 - [How to Structure a Sass Project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-- Extends
-- Mixin Grid
-- [Grid Codepen](http://codepen.io/abbylarner/pen/dYyBBN?editors=110)
 
 ## Notes
+- Guest Lecture
+- Clearhead
+- Feedback Buddies
 
 ## Assignments
 - [Grid Sketches](https://online.theironyard.com/library/paths/143/units/496/assignments/770)

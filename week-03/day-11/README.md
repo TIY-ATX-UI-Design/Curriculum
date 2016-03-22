@@ -55,8 +55,20 @@
                     * reflect or analyze
                     * http://www.uxbooth.com/articles/focusing-interaction-design-with-design-strategy/
                     * https://blog.mozilla.org/ux/2012/10/save-for-later/
+                    * In class exercise: Core purpose of websites and users
+                        - spotify
+                        - evernote
+                        - calendly.com
+                        - pocket
+                        - medium
         * who are your target users?
             - user stories
+        *   Exercise: User Stories for Website      
+            - spotify
+            - evernote
+            - calendly.com
+            - pocket
+            - medium
         * what research methods will you use?
             - Qualitative
                 + background checks/history of company
@@ -71,7 +83,7 @@
                 + competitive market study
                     * what are we doing right
                     * what are we doing wrong
-                    * what are thye doing right
+                    * what are they doing right
                     * what are they doing wrong
                     * what can we do differently
                     * will it alienate our users
@@ -104,6 +116,7 @@
         * how effective is this design?
 - What do wo do with the data?
     + Wordlists
+        * Sample wordlist for Torchy's
     + Merge the unexpected
     + Find patterns and similarities
     + Iterate and prototype
@@ -114,6 +127,13 @@
     + Research, methods, results, outcomes
     + http://boxesandarrows.com/files/banda/card_sorting_a_definitive_guide/designProcessDiagram.jpg
 - http://www.freshtilledsoil.com/case-studies/massport/
+- In class assignment:
+    + SWOT and Comp. Analysis for one:
+        + spotify
+        * evernote
+        * calendly.com
+        * pocket
+        * medium
 
 ## Notes
 

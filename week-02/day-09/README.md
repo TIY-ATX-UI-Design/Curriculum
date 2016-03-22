@@ -1,6 +1,11 @@
 # 03/09/2016 - Day 08 - Introduction to Typography
 
 ## Topics
+- History of Typography
+    + https://www.youtube.com/watch?v=wOgIkxAfJsk
++ Why is typography important?
+- Parts of a letter
+- Important Typography Definitions
 - Line Spacing
 - Kearning
 - Tracking
@@ -11,10 +16,17 @@
 - [Codepen - Spacing with Ems](http://codepen.io/abbylarner/pen/VvYmvG)
 - [Codepen - Font-size ems, px, pt, percent](http://codepen.io/abbylarner/pen/rOaMRW)
 - [Codepen - Kerning](http://codepen.io/abbylarner/pen/rOamBj)
-- Fontawesome.io
-- Google Fonts
-- Typekit
-
+- Web fonts vs non Web fonts
+    + Fontawesome.io
+    + Google Fonts
+    + Typekit
+    + What the font?
+- Exercise:
+    + Create 3 Codepens with an h1,h2,h3,and p using Typographic principles based on the following themes
+        * Retro/Vintage
+        * Rustic
+        * Modern
+        * Minimalist (in class)
 
 ## Notes
 

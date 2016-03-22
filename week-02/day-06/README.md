@@ -1,6 +1,15 @@
 # 03/07/2016 - Day 06 - Advanced CSS and Paths
 
 ## Topics
+- Things to go over
+    + Class Expectations
+    + Questions/Feedback (week and weekends)
+    + Directory Structure
+    + CSS/Sass Structure Best Practice 
+        * Organizing partials
+    + Turning in hw from now on
+        * Repo + Surge link
+- Debug Homework
 - CSS Selectors/Specificity
     + Element
     + Descendent
@@ -32,9 +41,15 @@
     + blockquote
     + :nth-of-type, :nth-child
     + shorthand
+    + id vs class and when to use
+    + targeting elements without adding a class to everything
 - Types of writing CSS - BEM, OOCSS, Atomic, SMACSS
-- Webkit Prefixes/Cross-browser compatibility
+    + https://css-tricks.com/bem-101/
+    + http://vanseodesign.com/css/smacss-introduction/
+- Webkit Prefixes/Cross-browse  r compatibility
+    + caniuse.com
 - HTML5 elements and when to use them
+
 
 ## Notes
 
