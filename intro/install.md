@@ -1,6 +1,6 @@
 # Install Instructions
 
-Normally you *NEVER* want to run random commands that you get from the internet in your terminal without understanding what they are and exactly what they do. The terminal could give anyone full access to your entire computer. In this case these commands are coming from a trusted source (me) so it's okay.
+Normally you *NEVER* want to run random commands that you get from the internet in your terminal without understanding what they are and exactly what they do. The terminal could give anyone full access to your entire computer. In this case these commands are coming from a trusted source (me) so it's okay. **Anywhere you have to make a public facing account, be aware that employers may see your handle/username.  Make sure to pick something professional.  I also like to make sure my handles and profile pictures match across services so I'm easier to find.**
 
 Short link to this document [http://bit.ly/1RvOdnj](http://bit.ly/1RvOdnj)
 
@@ -30,8 +30,8 @@ Open up slack. It will prompt you to enter your teamdomain. Enter: *theironyarda
 Enter your email address and password.
 
 Channels to star/join in slack:
-- 2016-02-cohort (this cohort's channel)
-- design-2016-02 (this class's channel)
+- 2016-06-cohort (this cohort's channel)
+- design-2016-06 (this class's channel)
 - _campus (the campus channel)
 - jobs (channel for job postings)
 - events (channel for tech/design events)
@@ -103,17 +103,6 @@ Use [this link](http://www.sublimetext.com/3) to download Sublime Text 3 for OS 
 
 Use [this link](https://packagecontrol.io/installation) and follow the instructions to install the Sublime Text 3 package manager. You will need to use Sublime to install the package manager. Be sure to restart Sublime after installing the package manager.
 
-### Various Sublime Packages
-Use [this link](https://packagecontrol.io/docs/usage) to read up on how to install new packages using the Sublime Package Manager that you just installed.
-
-Install the following package:
-
-1. HTML Prettify
-2. Emmett
-3. Markdown Editing
-4. LoremIpsum
-5. Sass
-
 ### Git Editor
 > Change git to use Sublime as your editor
 
@@ -124,37 +113,15 @@ Run this command in iTerm `git config --global core.editor "subl -n -w"`
 
 Using iTerm run the command `brew install node`.
 
-### Hub
-> hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
-
-Using iTerm2, type the following command: `brew install hub`
-
-Then run `git config --global hub.protocol http`
-
 ### GitHub
 > GitHub is where people build software. More than 10 million people use GitHub to discover, fork, and contribute to over 26 million projects.
 
 Use [this link](https://github.com/join) to sign up for a GitHub account. You just need the free plan. On your profile upload a picture of yourself. This will help me to remember your name.  Follow me (abbylarner) on GitHub so I can easily find you.
 
-### SSH Key
-> SSH keys are a common way to connect securely to remote machines. 
-
-An SSH key will allow you to use make changes to your projects using the comman line without having to type in your password every time. Use the instructions from [this link](https://help.github.com/articles/generating-an-ssh-key/) to setup your SSH key with Github.
-
 ### CodePen
 > CodePen is an app for sharing and playing around with front end code.
 
 Use [this link](http://codepen.io/) to sign up for a CodePen account. Use your GitHub account to sign up for CodePen. You just need the free plan.mFollow me (abbylarner) on CodePen so I can easily find you. 
-
-### Breadcrumbs
-> Breadcrumbs is a question and answer tool where you can practice the things you've learned in the class, help your fellow students and get answers to your questions.
-
-Use [this link](http://tiy.breadcrumbsqa.com/index/register) to sign up for a Breadcrumbs account. Follow at least the html, css and javascript tags.
-
-### Twitter
-> Twitter is an online social networking service that enables users to send and read short 140-character messages called "tweets". 
-
-Use [this link](https://twitter.com/) to sign up for a Twitter account if you don't already have one. This is not required, but a lot of people in the tech and design industries use Twitter, and it's a great way to get started putting your work out there.
 
 ##Adobe
 Sign up for [Adobe Creative Cloud](https://creative.adobe.com/plans) (if you don't already have Adobe CS4 or higher). You can use everything free for the first 30 days but the will have to pay for at least the 12 weeks of class. 
